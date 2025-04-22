@@ -74,6 +74,5 @@ public class HelloApplication extends Application implements EventHandler  { //i
             label2.setText("" + ++buttonPresses);
         }
     }
-    // TODO: follow steps 22-34 in README.md to create an event handler
 
 }
